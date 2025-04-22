@@ -1,4 +1,4 @@
-# PlantSegNet – In‑the‑Wild Plant‑Disease Segmentation  
+# Image Segmentation to detect plant desease using UNET
 *CSE 428 · Image Processing · Fall 2024*
 
 ---
